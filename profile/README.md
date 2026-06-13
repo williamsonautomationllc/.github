@@ -1,24 +1,25 @@
-<h1 align="center">Williamson Automation LLC</h1>
+<h1 align="center">Williamson Automation</h1>
 
 <p align="center">
-  <strong>Websites &amp; Google presence that get local businesses found — and growing.</strong>
+  <strong>Premium websites for local businesses — and the Google, Maps &amp; AI presence to match.</strong>
 </p>
 
 <p align="center">
-  We build clean, fast websites and manage Google Business Profiles that turn searches into real customers —<br>
-  most clients see their business doing measurably better within weeks.
+  We build fast, distinctive websites and run the search presence behind them, so the right<br>
+  customers find you on Google, Maps, and AI answers — and reach you in one tap.
 </p>
 
 ---
 
 ### What we do
-- 🌐 **Local business websites** — clean, fast, and built to convert
-- 📍 **Google Business Profile** setup + optimization — get found on Google &amp; Maps
-- 🧰 **Whatever else a growing business needs** online
+- 🌐 **Premium websites** — fast, distinctive, conversion-tuned, with a simple editor so you can update text yourself
+- 📍 **Google Business Profile** — setup + ongoing management so you get found on Google &amp; Maps
+- 🤖 **AI + search optimization** — tuned to show up across Google, Maps, and AI answers
+- 🗓️ **Booking built in** — coded into the site's contact page, no third-party tools
 
 ### Get in touch
 - 🔗 [williamsonautomationllc.com](https://williamsonautomationllc.com)
 - ✉️ carter@williamsonautomationllc.com
-- 📍 Greene, NY · Chenango County
+- 📍 Greene, NY · Central New York
 
-<sub>Est. 2026 · Greene, NY · Chenango County</sub>
+<sub>Williamson Automation LLC · Est. 2026 · Central New York</sub>
